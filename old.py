@@ -693,6 +693,6 @@ class load:
 
         print('\n')
 
-main_apv('')
+main_apv('\y')
 
 
